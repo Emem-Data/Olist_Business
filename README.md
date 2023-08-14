@@ -1,4 +1,4 @@
-# Olist Business Data Cleaning
+# Olist Business Data Cleaning (SQL)
 
 In this documentation, we outline the meticulous process undertaken to ensure the accuracy and reliability of the data within the context of the Olist e-commerce business. Olist, a prominent Brazilian e-commerce platform, serves as a vital conduit linking small and medium-sized enterprises with customers throughout Brazil. The subsequent sections provide an insight into the rigorous cleaning procedures adopted to refine the data and guarantee its integrity, thereby fortifying the foundation upon which informed business decisions are predicated.
 
